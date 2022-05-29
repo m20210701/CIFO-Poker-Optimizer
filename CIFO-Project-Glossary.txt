@@ -1,0 +1,34 @@
+Glossary (for non-poker players)
+c, d, s, h – suits clubs, diamonds, spades, hearts.
+A, K, J, T, 9, 8… - faces of cards.
+street – the current round of betting that is taking place, flop, turn, river. Essentially a discrete time counter.
+flop – first three community cards.
+turn – fourth community card. Also called fourth street.
+river – fifth and final community card. Also called fifth street.
+hand – multiple meanings but usually means one round of the game after which the cards are reshuffled, can also refer to your cards or your cards plus the community cards.
+OOP – out of position. You have to act before opponent for the duration of the hand.
+IP – in position. You get to act after the opponent for the duration of the hand (advantageous). 
+hole cards – your two cards that you are dealt.
+board – the community cards that everyone uses to make a five-card poker hand.
+deck – can be the entire 52 card deck or just the remaining cards, because the opponents hole cards are not known the deck is assumed to contain all unknown cards (ex. on the flop the deck would be assumed to have 47 cards when in fact it has 45 but two are unknown).
+stack – money with which you can bet in increments of the blinds. Starting at 100$ here for simplicity.
+pot – money in the middle to win.
+boat – a full house, hand in the form of XXXYY.
+trips – three of a kind in the form of XXXYZ where one X is in your two hole cards and the other two Xs come from the community cards. Ex. having J-7 on a board of J-J-3
+set – three of a kind in the form of XXXYZ where two Xs are in your hole cards and one is in the community cards. Ex. having J-J on a board of J-7-3
+flush – five cards of the same suit, highest card wins in the case of both players having a flush. Ex. Ac-Tc beats Qc-Jc on a board of 7c-5c-3c.
+quads – four of a kind.
+value – money you are statistically winning when betting with the best hand and being called by a worse hand.
+bluff – betting without regard to your cards.
+nuts – the best possible hand, mortal nuts are the absolute best possible hand and effective nuts are the best possible hand that makes sense. Ex. on 6c-5c-2d-Kd-Kh the mortal nuts are Ks-Kc but the effective nuts are any combination of 3-4 because no hands containing a K should continue on the flop.
+trash – hands you want to fold.
+premium – big hands like A-J, KK, etc. Hands you want to raise and reraise with.
+value-hand – hands you want to bet with and are good but not as good as premiums.
+bluff-catcher – marginal hands that can call a bet but will lose most of the time.
+sensitivity (aka. vulnerability or ‘need for protection’) – the probability of your hand getting worse relative to the best possible hand. Ex. TT on 8-4-3 is vulnerable, an A/K/Q/or J makes a higher pair possible. With four of each in the deck that’s 16 cards/47 cards that weaken our hand.
+range – possible hands opponent can have.
+blinds – money that must be put in before the cards are dealt so the pot is not zero.
+margin – expected win rate in the same units as bet given your hand’s strength, opponent’s range, and bet size.
+equity – probability of winning the hand.
+PO – pot odds, odds you need to get to break even. Ex. betting 1$ into a pot of 2$ gives you 0.33, you need to win 1/3 times to break even.
+
